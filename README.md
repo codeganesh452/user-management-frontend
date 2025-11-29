@@ -63,12 +63,6 @@ Backend repo: [https://github.com/codeganesh452/user-management-backend](https:/
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots inside a `/screenshots` folder)
-
----
-
 ## 📁 Folder Structure
 
 ```
