@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+/* Reduce text + button size on small devices */
+@media (max-width: 576px) {
+  .responsive-btn {
+    font-size: 12px !important;
+    padding: 4px 8px !important;
+  }
+
+  table {
+    font-size: 13px !important;
+  }
+
+  th, td {
+    padding: 6px !important;
+  }
+}
+
+/* Extra small screens (very small phones) */
+@media (max-width: 420px) {
+  .responsive-btn {
+    font-size: 10px !important;
+    padding: 3px 6px !important;
+  }
+
+  table {
+    font-size: 11px !important;
+  }
+
+  th, td {
+    padding: 4px !important;
+  }
+}
