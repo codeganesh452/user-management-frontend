@@ -1,11 +1,3 @@
-# User Management System – Full Stack Project
-
-This repository contains **two professional README files** formatted for GitHub — one for the **frontend (React)** and one for the **backend (Spring Boot + PostgreSQL)**.
-
-Use each section in the corresponding repository.
-
----
-
 # 📘 Frontend README (React.js)
 
 ## 📌 User Management Frontend (React.js)
