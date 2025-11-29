@@ -1,5 +1,4 @@
-📘** User Management Frontend (React.js)
-**
+📘 User Management Frontend (React.js)
 A fully responsive React.js frontend for managing users with CRUD functionality.
 Built using React Hooks, Axios, Bootstrap, and connected to a Spring Boot backend.
 
