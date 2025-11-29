@@ -1,77 +1,108 @@
-📘 User Management Frontend (React.js)
+# User Management System – Full Stack Project
 
-A fully responsive React.js frontend for managing users with CRUD functionality.
-Built using React Hooks, Axios, Bootstrap, and connected to a Spring Boot backend.
+This repository contains **two professional README files** formatted for GitHub — one for the **frontend (React)** and one for the **backend (Spring Boot + PostgreSQL)**.
 
-🚀 Features
+Use each section in the corresponding repository.
 
-Add new users
+---
 
-Edit user details
+# 📘 Frontend README (React.js)
 
-View single user info
+## 📌 User Management Frontend (React.js)
 
-Delete users
+![Stars](https://img.shields.io/github/stars/codeganesh452/user-management-frontend?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/codeganesh452/user-management-frontend?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/codeganesh452/user-management-frontend?style=for-the-badge)
+![License](https://img.shields.io/github/license/codeganesh452/user-management-frontend?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/codeganesh452/user-management-frontend?style=for-the-badge)
 
-Fully responsive UI (mobile-friendly)
+A fully responsive **React.js frontend** for managing users with CRUD functionality. Built using **React Hooks, Axios, Bootstrap**, and connected to a Spring Boot backend.
 
-Axios-based API calls
+---
 
-Clean and reusable components
+## 🚀 Features
 
-🛠️ Tech Stack
-Frontend: React.js, JavaScript, Axios, Bootstrap, HTML5, CSS3
+* Add new users
+* Edit user details
+* View individual user info
+* Delete users
+* Responsive UI (mobile-friendly)
+* Axios-based API calls
+* Clean component structure
 
-📦 Installation
-# Clone repository
+---
+
+## 🛠️ Tech Stack
+
+```
+React.js
+JavaScript (ES6)
+Axios
+Bootstrap 5
+HTML5 & CSS3
+```
+
+---
+
+## 📦 Installation
+
+```bash
 git clone https://github.com/codeganesh452/user-management-frontend.git
-
-# Navigate folder
 cd user-management-frontend
-
-# Install dependencies
 npm install
-
-# Start development server
 npm start
+```
 
-🔗 Backend API (Connected To)
+Frontend runs on:
 
-This frontend connects to:
-👉 https://github.com/codeganesh452/user-management-backend
+```
+http://localhost:3000
+```
 
-Base URL:
+---
 
-http://localhost:8080/
+## 🔗 Connected Backend
 
-📸 Screenshots
+```
+http://localhost:8080
+```
 
-(Add your screenshots here)
+Backend repo: [https://github.com/codeganesh452/user-management-backend](https://github.com/codeganesh452/user-management-backend)
 
-/screenshots/home.png  
-/screenshots/add-user.png  
-/screenshots/view-user.png  
+---
 
-📁 Folder Structure
+## 📸 Screenshots
+
+(Add your screenshots inside a `/screenshots` folder)
+
+---
+
+## 📁 Folder Structure
+
+```
 src/
 │── pages/
 │── users/
 │── layout/
 │── App.js
 │── index.js
+```
 
-🧿 Roadmap
+---
 
-Add Toast Notifications
+## 🧿 Roadmap
 
-Add Search & Pagination
+* Add toast alerts
+* Add pagination & search
+* Add dark mode
 
-Add Dark Mode
+---
 
-🤝 Contributing
-
-Pull requests are welcome.
-
-📜 License
+## 📜 License
 
 MIT License
+
+
+---
+
+You can copy the respective section into each repo's README.md file.
